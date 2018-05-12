@@ -1,0 +1,27 @@
+_repo: Harpsichords-and-Clavichords_39690
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39690-h/images/cover_zoom.jpg
+creator:
+  author:
+    agent_name: Hoover, Cynthia A. (Cynthia Adams)
+    alias: Hoover, Cynthia Adams
+    gutenberg_agent_id: '40159'
+    url: http://www.gutenberg.org/2009/agents/40159
+description: ''
+gutenberg_issued: '2012-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39690'
+  lccn: '73605896'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clavichord'
+- !lcc 'ML'
+- !lcsh 'Harpsichord'
+title: Harpsichords and Clavichords
+url: http://www.gutenberg.org/ebooks/39690
